@@ -11,7 +11,7 @@ To use the tailwind-kt plugin follow these steps:
 The tailwind-kt plugin offers configuration options that can be customised through the
 `tailwind {}` block in your build.gradle. Although it is **optional and not necessary in
 most cases**, you can adjust the default settings according to your requirements
-.Refer to [TailwindPluginExtension](Reference.md#tailwindpluginextension) for more details
+.Refer to [TailwindPluginExtension](Extensions.md#tailwindpluginextension) for more details
 
 ```groovy
      tailwind {
