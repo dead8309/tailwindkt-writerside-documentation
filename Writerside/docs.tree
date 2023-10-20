@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="docs"
+                  name="Docs"
+                  start-page="introduction.md">
+
+    <toc-element topic="introduction.md"/>
+    <toc-element topic="Installation.md"/>
+    <toc-element topic="Usage.md">
+        <toc-element topic="Consistent-Layout.md"/>
+    </toc-element>
+    <toc-element topic="Examples.md"/>
+    <toc-element toc-title="Extensions-And-Tasks.md">
+        <toc-element topic="Extensions.md"/>
+        <toc-element topic="Tasks.md"/>
+    </toc-element>
+</instance-profile>
